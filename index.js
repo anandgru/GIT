@@ -76,4 +76,4 @@ function editUser(email, user) {
 // Initial call to display users on page load
 document.addEventListener('DOMContentLoaded', displayUsers);
 
-module.exports = handleFormSubmit;
+//module.exports = handleFormSubmit;
